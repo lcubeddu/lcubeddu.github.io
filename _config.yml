@@ -11,6 +11,7 @@ baseurl: ""
 url: "https://loucascubeddu.com" 
 
 github_username: lcubeddu
+linkedin_username: loucas-cubeddu
 
 # Build settings
 theme: minima

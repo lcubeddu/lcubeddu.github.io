@@ -1,7 +1,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Loucas Cubeddu
+title: Loucas Cubeddu's Blog
 author: Loucas Cubeddu
 email: lcubeddu@outlook.fr
 description: >- 
@@ -9,6 +9,10 @@ description: >-
   Engineering Degree in Computer Science and Statistics, Polytech Lille.
 baseurl: ""
 url: "https://loucascubeddu.com" 
+
+# Removes the categories from the URL, and 
+# places posts under /blog/
+permalink: /blog/:year/:month/:day/:title/
 
 github_username: lcubeddu
 linkedin_username: loucas-cubeddu

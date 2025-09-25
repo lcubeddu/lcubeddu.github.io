@@ -1,0 +1,14 @@
+.document {
+	width: 800px;
+	margin: 10px auto 0 auto;
+}
+
+.title-strip {
+	display: flex;
+	align-items: center;
+}
+
+.title-strip>h2 {
+	display: inline;
+	margin-inline-start: 20px;
+}

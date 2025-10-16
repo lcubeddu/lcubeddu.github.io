@@ -1,3 +1,7 @@
+body {
+	font: 16px Arial, sans-serif;
+}
+
 .document {
 	width: 800px;
 	margin: 10px auto 0 auto;
